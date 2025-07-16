@@ -102,11 +102,12 @@ Após a implantação:
 
 <img width="963" height="601" alt="acess" src="https://github.com/user-attachments/assets/b5ce7b67-7613-4da9-8a06-8be08bd9d7cb" />
 
+
 ---
 
 ### 8. Executar os Primeiros Comandos SQL - Criando a tabela Cursos
 
-<img width="1352" height="562" alt="create bd" src="https://github.com/user-attachments/assets/52c2225e-305a-4b33-8dfa-43c78905fbe5" />
+<img width="1352" height="562" alt="466248360-52c2225e-305a-4b33-8dfa-43c78905fbe5" src="https://github.com/user-attachments/assets/901dab62-386d-4fb5-a9ca-5c7cfe67effe" />
 
 - Cole o seguinte código na área de consulta:
 ```sql
