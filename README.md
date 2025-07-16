@@ -53,8 +53,8 @@ Fornecer um tutorial prático e acessível para:
 - **Localização**: Escolha uma região próxima ou mais barata (ex: `West US 2`)
 - **Autenticação**: Selecione **Usar autenticação SQL**
 - **Logon do administrador do servidor**: Insira um nome de administrador (ex: `adminsql`) 
-- **Senha**: Insira um nome de administrador (ex: `SQLadmin255`) 
-- **Confirmar senha**: Repita a senha informad
+- **Senha**: Insira a senha de administrador (ex: `SQLadmin255`) 
+- **Confirmar senha**: Repita a senha informada
 - Clique em OK
 
 ---
