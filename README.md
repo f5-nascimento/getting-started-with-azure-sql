@@ -206,4 +206,5 @@ join instrutores on id_instrutor = instrutor;
 ```
 - Clique em Executar.
 
-<img width="1585" height="702" alt="image" src="https://github.com/user-attachments/assets/117d0932-4746-4b48-bf8b-bdf6f9fa7f13" />
+<img width="1585" height="702" alt="deisei" src="https://github.com/user-attachments/assets/01c5c7e7-f20e-4237-ae54-ded876437c6b" />
+
